@@ -49,4 +49,4 @@ Imagine your system sends asset maintenance data to Maximo. Before the data reac
 
 **Farah Bouali**  
  _Software Engineer – React Native Enthusiast_  
- 📧 [farah.bouali@enis.tn]
+ 📧 farah.bouali@enis.tn
