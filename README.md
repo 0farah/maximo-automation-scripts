@@ -31,7 +31,7 @@ This repository contains automation scripts designed to validate data sent to IB
 
 ### 3. Run validation script
 
-      python scripts/validate_data.py
+      python scripts/ValidateItems.py
 
 ## 🧪 Example Use Case
 
@@ -40,12 +40,6 @@ Imagine your system sends asset maintenance data to Maximo. Before the data reac
 - Checks for required fields (e.g. asset, location, item)
 - Validates data types and formats
 - Logs the result with a timestamp
-
-## 🛠 Configuration
-
-- Define validation rules in `/config/validation_rules.json`
-- Customize automated responses in `/config/responses/`
-- Set up error templates in `/config/errors/`
 
 **Farah Bouali**  
  _Software Engineer – React Native Enthusiast_  
