@@ -1,0 +1,25 @@
+{
+    "app": "receipt",
+    "action": "METERPHYSICAL",
+    "assets": [
+        {
+            "assetnum": "1012",
+            "description": "Asset 1",
+            "siteid": "100000093",
+            "location": "location 01",
+            "itemnum": "487888"
+        },
+        {
+            "assetnum": "1013",
+            "siteid": "100000093",
+            "location": "location 02",
+            "itemnum": "5464132"
+        },
+        {
+            "assetnum": "10146",
+            "siteid": "100000093",
+            "location": "52102",
+            "itemnum": "0170218"
+        }
+    ]
+}

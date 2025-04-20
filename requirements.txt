@@ -1,0 +1,3 @@
+requests          # For making HTTP calls to Maximo API
+jsonschema        # For validating JSON structure
+loguru            # For structured logging with better readability

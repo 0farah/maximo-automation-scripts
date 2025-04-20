@@ -1,0 +1,24 @@
+{
+    "ponum": "131",
+    "porevisionnum": 0,
+    "packingslipnum": "",
+    "positeid": "100000093",
+    "polinenum": 1,
+    "receiptquantity": "2",
+    "siteid": "100000093",
+    "asset": [
+        {
+            "assetnum": "20871",
+            "serialnum": "20871",
+            "siteid": "100000093",
+            "manufacturer": "07"
+        },
+        {
+            "assetnum": "98745",
+            "serialnum": "98745",
+            "siteid": "100000093",
+            "manufacturer": "07"
+        }
+    ],
+    "tobin": "5XXX"
+}

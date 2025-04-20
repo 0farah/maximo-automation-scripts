@@ -1,0 +1,42 @@
+{
+    "status": "SHIPPED",
+    "description": "Return faulty meter",
+    "fromstoreloc": "5210",
+    "usetype": "Issue",
+    "siteid": "100000093",
+    "saptransactiontype": "SAPTT",
+    "invusetype": "MAMS",
+    "frombin": "0326",
+    "sapreservation": "1970",
+    "invuseline": [
+        {
+            "itemnum": "0170218",
+            "usetype": "Issue",
+            "issueto": null,
+            "n_sap_from_sloc": "5XXX",
+            "quantity": 1,
+            "tostoreloc": "5721",
+            "tositeid": "100000093",
+            "frombin": "0326",
+            "invuselinenum": 1,
+            "tobin": "5001",
+            "sapreservation": "1861",
+            "invuselinesplit": [
+                {
+                    "invuselinenum": 1,
+                    "contentuid": "5a80a696-90a0-443a-b910-1743725271",
+                    "rotassetnum": "6004",
+                    "quantity": 1,
+                    "tostoreloc": "5721",
+                    "tositeid": "100000093",
+                    "frombin": "0326",
+                    "tobin": "5001",
+                    "siteid": "100000093",
+                    "itemnum": "0170218"
+                }
+            ],
+            "glcreditacct": "000000001",
+            "gldebitacct": "000000002"
+        }
+    ]
+}
